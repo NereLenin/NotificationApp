@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Authorization.ui.qml</file>
+        <file>qml/CheckConnection.ui.qml</file>
+        <file>qml/Conversation.ui.qml</file>
+        <file>qml/ConversationItem.ui.qml</file>
+        <file>qml/ConversationsList.ui.qml</file>
+        <file>qml/CourseList.ui.qml</file>
+        <file>qml/DialogLoad.ui.qml</file>
+        <file>qml/GroupConversationList.ui.qml</file>
+        <file>qml/GroupList.ui.qml</file>
+        <file>qml/Message.ui.qml</file>
+        <file>qml/MoodleNetworkManager.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>qml/images/emptylogo.png</file>
+        <file>qml/images/emptylogo2.png</file>
+        <file>qml/images/logo.png</file>
+        <file>qml/images/profilefoto.png</file>
+    </qresource>
+</RCC>
